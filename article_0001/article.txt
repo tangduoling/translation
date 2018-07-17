@@ -1,0 +1,73 @@
+Watch Out For These 5 Ways Hackers Target Small Businesses
+原文作者：Kayla Matthews
+
+原文地址：https://www.informationsecuritybuzz.com/articles/watch-5-ways-hackers-target-small-businesses/
+
+So many high-profile hacks and cyberattacks have occurred over the past few years, it’s easy to fall into the trap of thinking small businesses are rarely a target. After all, big businesses have more to offer, especially when it comes to personal or sensitive data — right?
+
+Wrong.
+
+In fact, more than 43 percent of cyberattacks target small or newer businesses. How scary is that? It means nearly half of all cyberattacks are targeting smaller businesses instead of large organizations.
+
+Worse yet, 60 percent of small companies affected go out of business within six months of a severe cyberattack. It means, sadly, that if your business or site is a target, you could see a massive brand extinction in your near future. Does that mean doomsday is here? Is this the apocalypse for small businesses everywhere?
+
+Absolutely not. In fact, the only thing this information does indicate is that every business, regardless of size, must be more concerned with protecting themselves from external hacks and breaches. That includes taking the necessary precautions to protect your audience, customers and clients, too.
+
+To better protect from external intrusions, it makes sense to study the different ways in which hackers take advantage of small business. What are some of the ways they attack vulnerable companies? What do they look for? How can you slow down their progress or prevent their attacks outright?
+
+ Ransomware Is on the Rise
+One of the most recent examples of ransomware or malicious malware came in the form of the WannaCry exploit. What this particular attack does is encrypt, corrupt or lock sensitive data behind a unique firewall. Then, it demands the user or system administrator make a blackmail payment to reacquire access to said content.
+
+In some cases, the ransomware will collect harmful and sensitive information about a user, like websites they visit, videos and streaming content they watch and much more. Some can even snap photos through a connected webcam, which can be used to further blackmail individuals.
+
+In the end, the user falls into the trap of thinking they can save themselves and their data by meeting the demands of the hackers. The problem is, hackers will not return or resupply access to any content or information they have. This could lead to you — or colleagues — paying the ransom for absolutely nothing.
+
+WannaCry infected computers and encrypted the operating systems of those it attached to. Its function was similar to a computer virus, and it spread quickly. You can imagine how many small businesses were affected by something like this.
+
+The best way to combat something like this is to keep all your security, malware and antivirus tools up to date, both at home and at work. Never open attachments, emails or conversations with people you don’t know on any service. And don’t download content from untrustworthy or unknown sources.
+
+Using managed IT solutions is another option for small businesses, as the affected systems and servers are managed and protected by a remote party much more skilled and knowledgeable about such things than most small businesses’ in-house IT teams.
+
+ Phishing or Masked Portals
+Phishing, as a whole, is quite broad. But the more common form is when hackers or attackers clone a website or portal to obtain private or sensitive information from people. In many cases, they’ll go through the trouble of copying and cloning every element or facet of a website so it looks legit to the untrained eye.
+
+A good example of this is the phishing email scam Comodo exposed in July.
+
+There’s a reliable way to avoid being affected by these sites. Always look for “HTTPS” or SSL and TSL-encrypted sites during a transaction. They have been awarded official certificates and any transferred data is locked behind encryption.
+
+In addition, always pay attention to the URL or link of the site you are visiting. Do the same for any links, shared content or hyperlinks in social messages and text. If, for example, you’re trying to log in to your PayPal account, but the URL is “paypallogin.org” or some variation with an unofficial URL, avoid it at all costs.
+
+Never trust links in emails, as a general rule. If a company offers you a link to log in to your account or change your password, simply navigate to said account on your own. Also, enable two-factor authentication whenever and wherever it’s available.
+
+ Application Breaches
+Recently, more than 3 million people were affected by an attack on Google’s renowned Docs and Drive platform. Phishers sent out fraudulent emails that purportedly invited users to edit documents via Google Docs. These emails looked legitimate because they resembled the real emails users receive when someone invites them to access a shared document via the service.
+
+The problem is, clicking on these fraudulent links would bring the users to a third-party app, which allowed hackers to gain access to connected Gmail accounts.
+
+The alarming aspect of this is that the phishing attack targeted Google’s customers and a company-protected platform. Google Docs itself was not compromised, but the phishers still figured out a way to gain access to user accounts and steal data.
+
+The takeaway is only to use software and applications for your business and on systems that you trust. Always make sure you have the latest security updates and patches, and keep your security tools active and updated.
+
+Furthermore, it’s a good habit to avoid any and all attachments from strange email addresses or contacts you don’t know you can trust.
+
+ Point-of-Sale Systems
+Several brands have been hit recently with point-of-sale attacks that extract and compromise the systems customers and cashiers use to facilitate transactions. Chipotle, for example, fell victim to a phishing scam that allowed hackers to steal credit card data for millions of customers. Other large companies, such as Target, Home Depot and more, have been affected by similar attacks.
+
+As a small business, it’s a lot harder to keep on top of things like this, but the best way to protect yourself is to implement secure, hardware and software for your point-of-sale system from brands you can trust. Furthermore, take the necessary precautions to protect and encrypt any and all data passing through these systems. That ensures even if the data does fall into the wrong hands, the thieves can’t do much with it.
+
+ Tax Form Scam
+You may be surprised to learn attackers targeted more official channels, more specifically during tax season. A W-2 phishing scam saw criminals sending fake emails to many employers and employees. The scam was that the content looked truly legit, and supposedly came from company or corporate executives. In reality, those affected filled out the forms and passed on their sensitive information to unknown parties.
+
+As of March 2017, the scam has affected well over 120,000 employees across 100 different organizations.
+
+What’s the best way to protect yourself and your business from something like this? Aside from the usual requirements, like keeping your security and protection tools up to date, you’ll want to educate your employees and customers. Do what you can to share the possibility that data breaches like this can and do happen. Offer free training or brief courses that explain how people can protect themselves.
+
+Cybersecurity is a joint effort among everyone and everything involved in an organization. That means any customer, client, employee or manager could unwittingly compromise a system or platform. It’s best to educate as many of those involved, teaching them how to protect not just themselves, but the organizations and companies they work with.
+
+About  Kayla Matthews
+
+
+
+
+
+Kayla Matthews is an IT journalist and writer. Her work has appeared on VICE’s Motherboard, VentureBeat and The Data Center Journal. To read more posts from Kayla, you can follow her personal blog, Productivity Bytes.
