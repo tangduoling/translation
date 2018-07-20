@@ -1,0 +1,40 @@
+Can The Software Community Do More To Protect User Security?
+
+原文作者：Adam Byrne, COO, RealVNC
+
+原文地址：https://www.informationsecuritybuzz.com/articles/can-software-community-protect-user-security/
+
+Following a series of breaches to remote access providers, RealVNC’s COO Adam Byrne looks at whether the wider software community can do anything more to protect users.
+
+Recent weeks have seen several major security incidents involving more than one remote access provider. The exact nature of these malicious attacks are not totally clear, but there has been some evidence to suggest that users with common passwords across multiple services may have been targeted.
+
+While the methods used have not been fully disclosed, the intent of the attacks could not be more clear: criminals were looking to compromise the personal security of individuals in order to empty bank accounts and execute fraudulent online transactions using common passwords and those saved in browsers.
+
+Ultimately when a breach is detected, the immediate responsibility must lie with software vendors to ensure that their security architecture is secure. However, the extent to which users are to blame is rather more up for debate. Security is rightly a shared obligation. If vendors use cloud-based centralised account management, their security must be robust enough to prevent an attack that could compromise a large number of customer accounts. At RealVNC we’ve chosen not to use this architecture in order to completely avoid this specific exposure. All the more reason, that users must take their share of responsibility, ensuring that they don’t give in to simple passwords like “1234” or shared passwords that can expose all of their online accounts.
+
+It would be foolish to suggest that any vendor, or user for that matter, can guarantee 100% online security. However these recent breaches bring about the question, can software companies do more to encourage their users to be safer online?
+
+Education
+
+Arguably one of the greatest challenge for the IT industry is security education. Few would dare not to properly invest in security tools, but a weak or reused password is like a passport in for cybercriminals. According to consumer research by mobile identity firm TeleSign, a worrying 62% regularly re-use passwords. Despite the responsibility a user must accept when a breach is caused by a poor or weak password, in the real world, no company wants their customers to be hacked. Who is responsible becomes almost irrelevant  once the media has picked up on a breach. Stolen data or personal details are always linked back to the company holding them. The long list of data breaches we’ve seen over the last few years are evidence for this.
+
+With such worrying statistics emerging on user password management, there is a clear opportunity for education. The software community’s user base must use password managers to create strong passwords, avoid reusing and storing them in browsers, regularly reset them, and critically keep their wider environment secure.
+
+It’s clear that users will not easily change their habits. The principles behind safe password management are largely common knowledge, yet they are still frequently ignored. Perhaps we need to more clearly explain the threat of poor password management and look for non-intrusive mechanisms to ensure our users are being safe when using our products.
+
+Usability
+
+In the corporate world, some companies enforce security policies using password managers, generating random passwords for users. These can then be linked to wireless dongles which generate a second password daily or weekly, adding another layer of security that is fully controlled by the enterprise. Software companies could never go to these lengths as they’d risk hampering usability.
+
+It’s possible some users would appreciate this level of safety, but others would simply find it an irritant. This is particularly true in our remote access market where ease-of-use is a key selling point. RealVNC has and will always be quick and safe to use, but finding the balance is tricky. Introducing multiple levels of complexities before users can access software risks frustrating them to the point that they might choose a simpler, but less secure alternative.
+
+Ultimately, creating strong passwords that are manually re-entered or installing and using a password manager may seem as hassle to users, but we must reinforce just how financially devastating it can be if their personal or corporate security is breached. There is no such thing as a free lunch. Users need to make that extra effort to stay safe.
+
+Remote access software solutions provide enormous value to private users and organisations. Like most technology however, it can also cause damage if used incorrectly or hijacked by criminals. The software community must take full responsibility for the security of their own systems, but there is also a case for us to do more to protect users passwords. Alongside a well-designed product, we need to make every effort to protect our customers through investment in the latest security technology and better education.
+
+About Adam Byrne
+
+
+With a backgr
+
+ound in Mathematics and Computer Science and a career spent growing IT companies from the ground up, Adam Byrne brings both business and product development skills. He has full responsibility for overseeing day-to-day business operations, and makes valuable contributions to strategy and direction. He is building a worldwide ecosystem of technology partners and licensees in a variety of vertical markets to build value into the brand and reach full commercial potential. Adam’s combination of deep technical knowledge and business acumen is driving growth, particularly in substantial new market-making applications.
